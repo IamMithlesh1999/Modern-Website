@@ -1,5 +1,5 @@
-# Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+# Modern UI/UX Modern Website
+### [Live Site](https://modern-website-mithlesh.netlify.app/)
 
 ## Introduction
 
